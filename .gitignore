@@ -1,2 +1,4 @@
 *.xlsx
 .python_modules
+**__pycache__
+*.pdf
